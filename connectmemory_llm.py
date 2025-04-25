@@ -8,7 +8,7 @@ from langchain_community.vectorstores import FAISS
 
 from huggingface_hub import login
 
-login(token="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")
+login(token="huggingfacetoken to be entered here")
 
 
 # Step 1: Setup LLM (Mistral with HuggingFace)
